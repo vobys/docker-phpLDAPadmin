@@ -1,4 +1,4 @@
-NAME = osixia/phpldapadmin
+NAME = vobys/phpldapadmin-arm64v8
 VERSION = 0.7.2
 
 .PHONY: build build-nocache test tag-latest push push-latest release git-tag-version

@@ -1,11 +1,7 @@
-# osixia/phpldapadmin
+# PHP LDAP Admin AArch64 Port Project
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/osixia/phpldapadmin.svg)][hub]
 [![Docker Stars](https://img.shields.io/docker/stars/osixia/phpldapadmin.svg)][hub]
-
-[hub]: https://hub.docker.com/r/osixia/phpldapadmin/
-
-Latest release: 0.7.2 - phpLDAPadmin 1.2.3 (with php7 patch) - [Changelog](CHANGELOG.md) | [Docker Hub](https://hub.docker.com/r/osixia/phpldapadmin/) 
 
 **A docker image to run phpLDAPadmin.**
 > [phpldapadmin.sourceforge.net](http://phpldapadmin.sourceforge.net)
