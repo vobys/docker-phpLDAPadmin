@@ -1,7 +1,7 @@
 # PHP LDAP Admin AArch64 Port Project
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/osixia/phpldapadmin.svg)][hub]
-[![Docker Stars](https://img.shields.io/docker/stars/osixia/phpldapadmin.svg)][hub]
+[![](https://images.microbadger.com/badges/version/vobys/phpldapadmin-arm64v8.svg)](https://microbadger.com/images/vobys/phpldapadmin-arm64v8 "Get your own version badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/vobys/phpldapadmin-arm64v8.svg)](https://microbadger.com/images/vobys/phpldapadmin-arm64v8 "Get your own image badge on microbadger.com")
 
 **A docker image to run phpLDAPadmin.**
 > [phpldapadmin.sourceforge.net](http://phpldapadmin.sourceforge.net)
